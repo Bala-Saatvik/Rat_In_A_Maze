@@ -18,3 +18,7 @@ The rat_maze function in this repository is designed to solve a maze represented
 - If no valid move is available, backtrack to the previous cell.<br>
 6. Print the path taken by the algorithm.<br>
 7. If the maze has no solution, print "Solution does not exist".<br>
+
+# **Output**
+![image](https://github.com/Bala-Saatvik/Rat_In_A_Maze/assets/94885375/08eaf204-7d57-4720-ab08-0cb51e27a9b8)
+![image](https://github.com/Bala-Saatvik/Rat_In_A_Maze/assets/94885375/da6e43f8-dcbe-4af3-95ff-6bad8536256b)
